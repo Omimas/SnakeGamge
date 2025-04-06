@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Snake Game\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361C1861-786D-42D3-86CC-A111730F4391}|SnakeGame.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Snake Game\\SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{361C1861-786D-42D3-86CC-A111730F4391}|SnakeGame.vcxproj|solutionrelative:SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Snake Game\\SnakeGame\\SnakeGame.cpp",
+              "RelativeDocumentMoniker": "SnakeGame.cpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Snake Game\\SnakeGame\\SnakeGame.cpp",
+              "RelativeToolTip": "SnakeGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:42:22.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
